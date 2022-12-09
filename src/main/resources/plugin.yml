@@ -1,0 +1,4 @@
+name: OneShotGG
+version: '${version}'
+main: com.github.xrozl.game.oneshotgg.OneShotGG
+api-version: 1.19
